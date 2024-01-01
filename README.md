@@ -22,9 +22,9 @@ cd Jenkins-Playground
 
 ### Explore the Contents
 
-- 📁 **tutorials**: Step-by-step guides and tutorials for setting up Jenkins, creating jobs, and building pipelines.
-- 📁 **examples**: Real-world project configurations demonstrating Jenkins in action.
-- 📁 **best-practices**: Tips and best practices for configuring Jenkins for optimal CI/CD workflows.
+###### - 📁 T**utorials**: Step-by-step guides and tutorials for setting up Jenkins, creating jobs, and building pipelines.
+
+###### - 📁 B**est-Practices**: Tips and best practices for configuring Jenkins for optimal CI/CD workflows.
 - 📁 **advanced-features**: Dive into advanced Jenkins features, including pipeline scripting and integration with other tools.
 
 ## Contributing
